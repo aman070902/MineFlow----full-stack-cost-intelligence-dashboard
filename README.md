@@ -154,3 +154,4 @@ Seeded projects include:
 - PostgreSQL stores project fundamentals and scenario history so analysts can revisit prior what-if runs.
 - React Router separates the dashboard, portfolio table, detail pages, comparison workflow, and scenario builder.
 - Recharts turns the seeded operating data into portfolio-level visuals, making the app demo-ready.
+# MineFlow----full-stack-cost-intelligence-dashboard
