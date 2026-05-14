@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.local
+dist
+build
+__pycache__
+.venv
+.DS_Store
+*.log
+postgres-data
+.vscode
+.idea
+coverage
